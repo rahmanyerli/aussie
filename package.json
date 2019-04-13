@@ -17,5 +17,30 @@
 				"path": "./themes/Aussie.json"
 			}
 		]
-	}
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/aussie"
+	},
+	"icon": "images/aussie.png",
+	"galleryBanner": {
+		"color": "#DDDDDD",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"aussie",
+		"aussie dark theme",
+		"aussie dark"
+	]
 }
