@@ -2,7 +2,7 @@
 	"name": "aussie",
 	"displayName": "Aussie",
 	"description": "Aussie color theme for VSCode",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.33.0"
 	},
